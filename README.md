@@ -1,5 +1,5 @@
 <div style="text-align:center">
-  <img src="https://github.com/finalverse/FinalverseLegends/blob/main/e0191ac13f416554078e73d1f8913ef.png" alt="Finalverse Logo" width="auto" height="200px" style="border-radius:50%">
+  <img src="https://github.com/finalverse/FinalverseLegends/blob/main/logo/e0191ac13f416554078e73d1f8913ef.png" alt="Finalverse Logo" width="auto" height="200px" style="border-radius:50%">
 </div>
 
 
